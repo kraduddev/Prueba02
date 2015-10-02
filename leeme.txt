@@ -1,1 +1,5 @@
-Vamos a hacer unas pruebas con git.
+Voy a hacer unas pruebas con git.
+
+Modificación
+============
+02/10/2015 19:51 -> Modificación para prueba de conflictos.
